@@ -1,0 +1,2 @@
+# No external dependencies for this Python example solution.
+# The standard library (json, sys) is sufficient.
